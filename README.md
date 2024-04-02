@@ -7,7 +7,7 @@
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,angular,vue,jest,cypress,graphql,babel,d3,styledcomponents,materialui,tailwind,bootstrap,html,css,sass,less,jquery,nestjs,php,laravel,django,apollo,aws,dynamodb,docker,bash,powershell,electron,figma,xd,firebase,flask,git,gitlab,bitbucket,grafana,heroku,jenkins,md,postgres,mongodb,mysql,sequelize,ps,postman,py,redis,supabase,sentry,linux,ubuntu,vscode,npm,yarn,pnpm" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,angular,vue,jest,cypress,graphql,babel,d3,styledcomponents,materialui,tailwind,bootstrap,html,css,sass,less,jquery,nestjs,php,laravel,django,apollo,aws,docker,electron,figma,xd,ps,firebase,flask,postgres,mongodb,mysql,sequelize,postman,py,redis,supabase,sentry,npm,yarn,pnpm,grafana,git,gitlab,bitbucket,md,vscode,bash,powershell,heroku,jenkins,linux,ubuntu" />
   </a>
 </p>
 
