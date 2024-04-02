@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on JavaScript, TypeScript, React, Next.js, and Node.js
 - 🌱 I’m currently learning Web3
 - 📫 You can reach out to me at elicampos.821@gmail.com
-- 😄 Pronouns: he/his/him
 
 ## Skills
 <p align="left">
